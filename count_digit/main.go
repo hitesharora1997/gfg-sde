@@ -13,5 +13,5 @@ func main() {
 		x++
 	}
 
-	fmt.Println(x)
+	fmt.Println("number of digits are", x)
 }
